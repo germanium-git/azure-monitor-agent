@@ -1,0 +1,8 @@
+terraform.tfvars
+.terraform.lock.*
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.*
+.terraform.tfstate.*
+.terraform/*
+Docs/*vsdx
